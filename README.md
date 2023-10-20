@@ -17,7 +17,7 @@ We are going to argue the impacts of AI on workflow.
 
 4. Push to the branch: git push origin my-new-feature
 
-5.Submit a pull request :D
+5. Submit a pull request :D
 
 ## Credits
 Jashan Kumar and Jashan Kumar
